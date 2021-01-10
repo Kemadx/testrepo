@@ -1,3 +1,3 @@
 #Display the output
 
-print("New Pythong File")
+print("New Python File")
